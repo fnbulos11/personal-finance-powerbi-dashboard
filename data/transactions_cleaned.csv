@@ -1,0 +1,51 @@
+Transaction_ID	Description	Date	Amount	Type	Category	Source
+1000001	Parking	10/11/2026 0:00	68.5	Expense	Transport	BDO
+1000002	PMS	09/11/2026 0:00	575.4	Expense	Transport	Sea Bank
+1000003	Parking	09/11/2026 0:00	68.5	Expense	Transport	BDO
+1000004	Pickup Coffee	09/11/2026 0:00	109.6	Expense	Food	BDO
+1000005	Petron	08/11/2026 0:00	274	Expense	Transport	BDO
+1000006	Samg	08/11/2026 0:00	682.26	Expense	Food	BDO
+1000007	Coffee shop	08/11/2026 0:00	408.26	Expense	Food	BDO
+1000008	Cup-noodles	06/11/2026 0:00	109.6	Expense	Food	Sea Bank
+1000009	Empanada	05/11/2026 0:00	123.3	Expense	Food	Sea Bank
+1000010	Pickup Coffee	05/11/2026 0:00	123.3	Expense	Food	Sea Bank
+1000011	Silugan sa Maceda	03/11/2026 0:00	602.8	Expense	Food	Sea Bank
+1000012	Smart All Access 99	27/10/2026 0:00	137	Expense	Data	Sea Bank
+1000013	Guitar Salon	24/10/2026 0:00	630.2	Expense	Hobbies & Leisure	Sea Bank
+1000014	Cocopan Munoz	24/10/2026 0:00	308.25	Expense	Food	Sea Bank
+1000015	Petron	11/11/2026 0:00	316.47	Expense	Transport	BDO
+1000016	Parking	11/11/2026 0:00	68.5	Expense	Transport	BDO
+1000017	Parking	06/11/2026 0:00	68.5	Expense	Transport	BDO
+1000018	Parking	05/11/2026 0:00	68.5	Expense	Transport	BDO
+1000019	Parking	04/11/2026 0:00	68.5	Expense	Transport	BDO
+1000020	Parking	03/11/2026 0:00	68.5	Expense	Transport	BDO
+1000021	Parking	02/11/2026 0:00	68.5	Expense	Transport	BDO
+1000022	Parking	30/10/2026 0:00	68.5	Expense	Transport	Sea Bank
+1000023	Parking	29/10/2026 0:00	68.5	Expense	Transport	Sea Bank
+1000024	Parking	26/10/2026 0:00	68.5	Expense	Transport	BDO
+1000025	Parking	27/10/2026 0:00	68.5	Expense	Transport	BDO
+1000026	Parking	28/10/2026 0:00	68.5	Expense	Transport	Sea Bank
+1000027	KFC	29/10/2026 0:00	226.05	Expense	Food	BDO
+1000028	Bills	29/10/2026 0:00	10617.5	Expense	Necessity	BDO
+1000029	Unknown	03/11/2026 0:00	217.83	Expense	Misscellaneous	BDO
+1000030	Unknown	03/11/2026 0:00	446.62	Expense	Misscellaneous	BDO
+1000031	Top-up	04/11/2026 0:00	36.168	Expense	Hobbies & Leisure	Sea Bank
+1000032	Top-up	27/10/2026 0:00	36.168	Expense	Hobbies & Leisure	Sea Bank
+1000033	Salary	12/11/2026 0:00	43324.8526	Income	Salary	BDO
+1000034	Salary	29/10/2026 0:00	14798.1098	Income	Salary	BDO
+1000035	STE	22/10/2026 0:00	2740	Income	Allowance	BDO
+1000036	Cash	10/11/2026 0:00	2764.66	Expense	Cash Spending	BDO
+1000037	Cash	03/11/2026 0:00	4134.66	Expense	Cash Spending	BDO
+1000038	Bills	12/11/2026 0:00	6987	Expense	Necessity	BDO
+1000039	KFC	21/10/2026 0:00	226.05	Expense	Food	BDO
+1000040	Netflix	20/10/2026 0:00	848.03	Expense	Hobbies & Leisure	BDO
+1000041	Cash	19/10/2026 0:00	2764.66	Expense	Cash Spending	BDO
+1000042	Bills	14/10/2026 0:00	6987	Expense	Necessity	BDO
+1000043	Salary	14/10/2026 0:00	19066.29	Income	Salary	BDO
+1000044	Cash	13/10/2026 0:00	2764.66	Expense	Cash Spending	BDO
+1000045	Pickup Coffee	12/10/2026 0:00	123.3	Expense	Food	Sea Bank
+1000046	Cash	12/10/2026 0:00	2764.66	Expense	Cash Spending	BDO
+1000047	Unknown	12/10/2026 0:00	465.8	Expense	Misscellaneous	BDO
+1000048	STE	12/10/2026 0:00	2466	Income	Allowance	BDO
+1000049	Top-up	07/10/2026 0:00	95.2835	Expense	Hobbies & Leisure	BDO
+1000050	Sevie Roast Coffee	05/10/2026 0:00	476.76	Expense	Food	BDO
