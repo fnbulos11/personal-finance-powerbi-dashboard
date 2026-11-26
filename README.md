@@ -27,13 +27,6 @@ The goal of this project was to create a dashboard that transformed raw transact
 - Developed recommendations based on findings.
 - Gathered stakeholder feedback to improve dashboard usability
 
-## Competencies Demonstrated
-- Cleaning and transforming data with Power Query
-- Creating measures with DAX
-- Identifying data quality limitations
-- Turning dashboard findings into recommendations
-- Using stakeholder feedback to improve usability
-
 ## Skills Demonstrated
 Excel, Power Query, Data Cleaning, DAX, Power BI, Data Visualization, Data Storytelling, Data Quality Assessment
 
