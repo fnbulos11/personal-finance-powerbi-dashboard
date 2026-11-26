@@ -27,7 +27,7 @@ The goal of this project was to create a dashboard that transformed raw transact
 - Developed recommendations based on findings.
 - Gathered stakeholder feedback to improve dashboard usability
 
-## What I Learned
+## Competencies Demonstrated
 - Cleaning and transforming data with Power Query
 - Creating measures with DAX
 - Identifying data quality limitations
@@ -71,6 +71,13 @@ Date Table (dimension) filtering Transactions (fact), one-to-many.
 ## Measures
 Total Income, Total Expense, Net Savings, Savings Rate, Category Share, Top Expense Category
 
+## Key Outcomes
+- Identified that Necessity and Cash Spending accounted for approximately 82% of recorded expenses.
+- Determined that untracked cash purchases were the primary data quality limitation.
+- Developed recommendations to improve transaction tracking and reporting accuracy.
+- Identified opportunities to optimize fund allocation between BDO and SeaBank to improve interest earnings.
+- Demonstrated an end-to-end analytics workflow from data collection to recommendation development.
+
 ## Insights
 
 **Context:** Food in this dashboard refers to discretionary foods. Necessity includes groceries that I eat at home and pack for work, and household bills that I share with my family.
@@ -83,7 +90,7 @@ Total Income, Total Expense, Net Savings, Savings Rate, Category Share, Top Expe
 
 **Why it matters:** It shows that in my logged data, Food is the largest discretionary category. Though cutting it changes total expenses only slightly.
 
-**Action:** Cut Food spending by 30% for the next 5.5 weeks, then compare the peso total and expense share of Food with Oct 05 to Nov 12. Food baseline: about ₱3.5K (scaled). A 30% cut targets about ₱2.45K (scaled) over the next 5.5 weeks.
+**Action:** Reduce Food spending by 30% over the next period and compare both spending amount and category share against the baseline period
 
 ### I2 (Necessity and Cash Spending)
 
