@@ -118,20 +118,20 @@ Total Income, Total Expense, Net Savings, Savings Rate, Category Share, Top Expe
 3. Keep one week of withdrawals and digital spending on BDO after the Necessity is paid, then send the rest to Sea Bank and compare the interest earned next month with this month's.
 
 ## Key Competencies Demonstrated
-## Technical Skills
+** Technical Skills **
 - Excel
 - Power Query
 - Power BI
 - DAX
 - Data Modeling
 - Data Cleaning
-## Analytical Skills
+** Analytical Skills **
 - KPI Development
 - Data Quality Assessment
 - Root Cause Analysis
 - Insight Generation
 - Recommendation Development
-## Communication Skills
+** Communication Skills **
 - Dashboard Design
 - Data Storytelling
 - Stakeholder Feedback Collection
