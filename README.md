@@ -3,12 +3,29 @@
 ## Project Overview
 This project analyzes my personal income and expenses in Power BI to identify spending patterns, savings opportunities, and key financial trends. It demonstrates my ability to prepare, clean, transform, analyze, and visualize data using Power Query, DAX, and Power BI.
 
+## Business Problem
+
+Personal expenses were spread across multiple accounts and transaction types, making it difficult to understand spending behavior, measure savings performance, and identify opportunities for financial optimization.
+
+The goal of this project was to create a dashboard that transformed raw transaction data into actionable insights and recommendations that could support financial decision-making.
+
+
 ## Objectives
 - Track income and expenses
 - Analyze spending by category
 - Monitor savings performance
 - Identify areas for financial improvement
 - Practice an end-to-end analytics workflow
+
+## Analytics Process
+- Defined the business questions.
+- Collected transaction data from bank and e-wallet records.
+- Cleaned and transformed data using Power Query.
+- Built a dimensional data model using a Date table and Transaction table.
+- Created DAX measures for key metrics.
+- Analyzed spending patterns and savings performance.
+- Developed recommendations based on findings.
+- Gathered stakeholder feedback to improve dashboard usability
 
 ## What I Learned
 - Cleaning and transforming data with Power Query
@@ -20,8 +37,12 @@ This project analyzes my personal income and expenses in Power BI to identify sp
 ## Skills Demonstrated
 Excel, Power Query, Data Cleaning, DAX, Power BI, Data Visualization, Data Storytelling, Data Quality Assessment
 
-## Question
-Where does my money go, and how much am I saving?
+## Business Questions
+- Where is the majority of spending occurring?
+- Which expense categories have the greatest impact on savings?
+- How much of income is being saved?
+- Which spending behaviors can be optimized?
+- What data collection improvements would increase reporting accuracy?
 
 ## Dashboard
 ![Dashboard](images/dashboard.png)
@@ -33,7 +54,7 @@ Where does my money go, and how much am I saving?
 - Assumptions: ATM withdrawals are tracked as Cash Spending because cash purchases were not logged. Transfers between my own accounts were excluded.
 - One intentionally incomplete record was added to the raw data to practice cleaning.
 
-## Cleaning steps (Power Query)
+## Data Cleaning and Transformation (Power Query)
 - Fixed mixed date formats with a custom column (culture-aware parsing)
 - Trimmed text, corrected category typos, renamed Withdrawal to Cash Spending
 - Converted Amount to positive values so Type decides direction
@@ -84,10 +105,29 @@ Total Income, Total Expense, Net Savings, Savings Rate, Category Share, Top Expe
 
 **Action:** Keep one week of withdrawals and digital spending on BDO after the Necessity is paid, then send the rest to Sea Bank and compare the interest earned next month with this month's.
 
-## Recommendation
+## Recommendations
 1. Cut Food spending by 30% for the next 5.5 weeks, then compare the peso total and expense share of Food with Oct 05 to Nov 12.
 2. Record withdrawals as Transfers, log each cash purchase within 24 hours, and check next period what share of withdrawals is accounted for.
 3. Keep one week of withdrawals and digital spending on BDO after the Necessity is paid, then send the rest to Sea Bank and compare the interest earned next month with this month's.
+
+## Key Competencies Demonstrated
+## Technical Skills
+- Excel
+- Power Query
+- Power BI
+- DAX
+- Data Modeling
+- Data Cleaning
+## Analytical Skills
+- KPI Development
+- Data Quality Assessment
+- Root Cause Analysis
+- Insight Generation
+- Recommendation Development
+## Communication Skills
+- Dashboard Design
+- Data Storytelling
+- Stakeholder Feedback Collection
 
 ## Limitations
 - Digital records only: cash purchases and transfers between my own accounts are not logged.
@@ -96,7 +136,12 @@ Total Income, Total Expense, Net Savings, Savings Rate, Category Share, Top Expe
 - Personal data, not business data.
 
 ## Usability check
-8 of 8 informal reviewers said they understood it within 10 seconds. Two gave feedback: one suggested a larger color legend (done), and my pastor noted that understanding depends on the audience.
+Eight informal reviewers reported that they could understand the dashboard within approximately 10 seconds.
+
+Feedback received:
+
+Increase the size of the chart legend (implemented).
+Dashboard readability may vary depending on audience familiarity with financial concepts.
 
 ## Tools
 Excel, Power Query, DAX, Power BI Desktop
