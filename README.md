@@ -1,7 +1,7 @@
 # Personal Finance Dashboard
 
 ## Project Overview
-This project analyzes my personal income and expenses in Power BI to identify spending patterns, savings opportunities, and key financial trends. It demonstrates my ability to prepare, clean, transform, analyze, and visualize data using Power Query, DAX, and Power BI.
+This project analyzes personal income and expense data in Power BI to identify spending patterns, savings opportunities, and financial trends. It demonstrates an end-to-end analytics workflow including data cleaning, transformation, modeling, analysis, visualization, and recommendation development using Power Query, DAX, and Power BI.
 
 ## Business Problem
 
